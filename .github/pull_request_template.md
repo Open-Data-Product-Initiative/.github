@@ -1,11 +1,3 @@
----
-name: Pull request
-about: A pull request
-title: '[PR] <title>'
-labels: 
-assignees: ''
-
----
 
 ### Reference to related issue ###
 Link to issue in the backlog
