@@ -18,5 +18,5 @@ If applicable, add screenshots to help explain your problem.
 Describe expected behavior
 
 
-### ---- Leave intact! Approval of Contributor Agreement -----### 
+### ---- Leave intact! Approval of Contributor Agreement ----- ### 
 By submitting issue you approve the Contributor Agreement, https://governance.opendataproducts.org/v1/contributions/contributor-agreement 
