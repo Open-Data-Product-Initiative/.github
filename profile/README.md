@@ -18,3 +18,12 @@ Project (collectively, “Collaborators”) must comply with the terms of this C
 
 ![Full Technical Charter](https://github.com/Open-Data-Product-Initiative/.github/blob/main/profile/Technical-Charter-5-14-2024.pdf.pdf)
 
+## Maintainers
+
+**Current maintainers:** 
+- Jarkko Moilanen, since 2019 (initial commit)
+- Jussi Niilahti, since Nov 2021
+
+**Past maintainers:** 
+To be added here...
+
