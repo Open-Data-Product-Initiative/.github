@@ -21,9 +21,9 @@ Project (collectively, “Collaborators”) must comply with the terms of this C
 ## Maintainers
 
 **Current maintainers:** 
-- Jarkko Moilanen, since 2019 (initial commit)
-- Jussi Niilahti, since Nov 2021
+- Jarkko Moilanen, since Dec 2021 (initial commit)
+- Manfred Sorg, since Feb 2025
 
 **Past maintainers:** 
-To be added here...
+- Jussi Niilahti
 
